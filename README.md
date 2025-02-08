@@ -37,9 +37,7 @@ This project answers the following business questions:
 6️⃣ **Total Number of Orders** – Track order volume over time.  
 
 7️⃣ **Order-Level Sales Breakdown** – Display **Sales, Profit, Discount, Net Sales**, and other metrics, filterable by **Product, Date, Customer ID, and Promotion Category**.  
-
-8️⃣ **Sales by City** – Discover regional sales performance.  
-
+  
 
  🛠️ Tools & Technologies  
 - **Power BI** – Data visualization and dashboard creation  
